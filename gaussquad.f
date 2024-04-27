@@ -1,3 +1,6 @@
+
+author shuvam ghosh 23409110037
+
       program gauss_quad
       implicit double precision (a-h, o-z)
       real(8) :: a,b,w1,w2,w3,u1,u2,u3,x1,x2,x3,sum
