@@ -1,3 +1,5 @@
+      
+! author shuvam_ghosh 23409110037
       program integration
       implicit none
       real (8) :: v, value
