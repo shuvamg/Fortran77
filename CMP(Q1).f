@@ -1,10 +1,4 @@
-!Consider a periodic lattice of identical atoms. Take, for example, 1000 atoms in the lattice, with
-interatomic spacing a (will not be used in computation though). Assign an “on-site” potential equal
-to zero for each atomic site. Take the nearest neighor hopping integral equal to `1’. Diagonalize the
-Hamiltonian written in the Wannier basis (real space basis), and obtain the Average Density of
-States (Use the defining equation of the Green’s function). Take the imaginary part equal to 0.01,
-0.001 and observe if there is any notable change in your plot.
-! code
+
 1.f Page 1
  implicit none
  integer::i,j,k,n,ierr
